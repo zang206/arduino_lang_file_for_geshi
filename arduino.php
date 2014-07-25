@@ -1,5 +1,30 @@
 <?php
 /*************************************************************************************
+* arduino.php for geshi syntax highlighting in wikis and blogs.
+*
+* This file based on the work done by Trimbitas Sorin-Iulian 
+* (trimbitassorin@hotmail.com). This file was originally downloaded from
+* http://stuff.nekhbet.ro/2009/08/18/free-arduino-language-file-for-geshi.html.
+* 
+*
+**************************************************************************************
+*
+* I have created a repository on GitHub for this language file because
+* according to the information on the website and in the file,
+* the language file has not been updated since 2009.
+* The newer version of this file is located at GitHub at 
+* https://github.com/zang206/arduino_lang_file_for_geshi. Now anyone
+* can contribute to the language file content and have it located in
+* one location and have their additions and changes properly 
+* attributed to them. 
+*
+* The rest of this file is the same as when I downloaded it. All further
+* changes will now be tracked on the GitHub site.
+*
+* Thanks, 
+* Jason Procknow jprocknow@gmail.com http://procknation.com
+*/
+/*************************************************************************************
  * arduino.php over c.php (used as a template)
  * -----
  * Author: Trimbitas Sorin-Iulian (trimbitassorin@hotmail.com)
